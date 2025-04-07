@@ -138,42 +138,42 @@ public class DlgAbout extends javax.swing.JDialog {
 
         jLabel11.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel11.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel11.setText("Untuk mensetting aplikasi menjadi Client");
+        jLabel11.setText(" ");
         jLabel11.setName("jLabel11"); // NOI18N
         panelGlass1.add(jLabel11);
         jLabel11.setBounds(230, 8, 210, 14);
 
         jLabel12.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel12.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel12.setText("Server, ganti HOST Localhost dengan");
+        jLabel12.setText(" ");
         jLabel12.setName("jLabel12"); // NOI18N
         panelGlass1.add(jLabel12);
         jLabel12.setBounds(230, 22, 200, 14);
 
         jLabel13.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel13.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel13.setText("alamat/IP Address dari server yang di");
+        jLabel13.setText(" ");
         jLabel13.setName("jLabel13"); // NOI18N
         panelGlass1.add(jLabel13);
         jLabel13.setBounds(230, 36, 200, 14);
 
         jLabel14.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel14.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel14.setText("gunakan. Jagan lupa untuk mengatur hak");
+        jLabel14.setText(" ");
         jLabel14.setName("jLabel14"); // NOI18N
         panelGlass1.add(jLabel14);
         jLabel14.setBounds(230, 50, 220, 14);
 
         jLabel15.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel15.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel15.setText("akses di MySQL server agar terkoneksi");
+        jLabel15.setText(" ");
         jLabel15.setName("jLabel15"); // NOI18N
         panelGlass1.add(jLabel15);
         jLabel15.setBounds(230, 64, 210, 14);
 
         jLabel17.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel17.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel17.setText("Update 2024-08-06");
+        jLabel17.setText("Update 4 April 2025");
         jLabel17.setName("jLabel17"); // NOI18N
         panelGlass1.add(jLabel17);
         jLabel17.setBounds(107, 8, 120, 14);
@@ -224,7 +224,7 @@ public class DlgAbout extends javax.swing.JDialog {
 
         jLabel19.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel19.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel19.setText("RS Permata Medika Kebumen, RS Handayani Lampung Utara, ");
+        jLabel19.setText(" ");
         jLabel19.setName("jLabel19"); // NOI18N
         panelGlass4.add(jLabel19);
         jLabel19.setBounds(126, 160, 320, 14);
@@ -263,33 +263,33 @@ public class DlgAbout extends javax.swing.JDialog {
 
         jLabel23.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel23.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel23.setText("Kontributor & Donatur : RS Jeumpa Pontianak Kalimantan Barat, RS Sadewa Yogyakarta,");
+        jLabel23.setText(" ");
         jLabel23.setName("jLabel23"); // NOI18N
         panelGlass4.add(jLabel23);
         jLabel23.setBounds(10, 100, 440, 14);
 
         jLabel25.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel25.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel25.setText("RS Puri Husada Sleman Yogyakarta, RS Pelita Insani Martapura,");
+        jLabel25.setText(" ");
         jLabel25.setName("jLabel25"); // NOI18N
         panelGlass4.add(jLabel25);
         jLabel25.setBounds(126, 120, 320, 14);
 
         jLabel26.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel26.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel26.setText("RS Assyifa Manna, RS Arvita Bunda Sleman Yogyakarta,");
+        jLabel26.setText(" ");
         jLabel26.setName("jLabel26"); // NOI18N
         panelGlass4.add(jLabel26);
         jLabel26.setBounds(126, 140, 320, 14);
 
         panelGlass5.setBackground(new java.awt.Color(254, 254, 254));
-        panelGlass5.setBackgroundImage(new javax.swing.ImageIcon(getClass().getResource("/picture/khanza.png"))); // NOI18N
+        panelGlass5.setBackgroundImage(new javax.swing.ImageIcon(getClass().getResource("/picture/ERAMED-CLARA.png"))); // NOI18N
         panelGlass5.setBackgroundImageType(usu.widget.constan.BackgroundConstan.BACKGROUND_IMAGE_STRECT);
         panelGlass5.setRound(false);
         panelGlass5.setWarna(new java.awt.Color(235, 255, 235));
         panelGlass5.setLayout(null);
         panelGlass4.add(panelGlass5);
-        panelGlass5.setBounds(0, 280, 330, 70);
+        panelGlass5.setBounds(190, 190, 80, 80);
 
         BtnKeluar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/picture/exit.png"))); // NOI18N
         BtnKeluar.setMnemonic('K');
@@ -308,62 +308,62 @@ public class DlgAbout extends javax.swing.JDialog {
             }
         });
         panelGlass4.add(BtnKeluar);
-        BtnKeluar.setBounds(340, 310, 100, 30);
+        BtnKeluar.setBounds(180, 290, 100, 30);
 
         jLabel27.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel27.setForeground(new java.awt.Color(50, 50, 50));
         jLabel27.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel27.setText("Bagi yang ingin melakukan Donasi, bisa ke Rekening BSI 1015369872, kode bank 451");
+        jLabel27.setText("Terima kasih telah menggunakan Eramed CLARA");
         jLabel27.setName("jLabel27"); // NOI18N
         panelGlass4.add(jLabel27);
-        jLabel27.setBounds(16, 240, 420, 14);
+        jLabel27.setBounds(20, 90, 420, 80);
 
         jLabel28.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel28.setForeground(new java.awt.Color(50, 50, 50));
         jLabel28.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel28.setText("atas nama Windiarto");
+        jLabel28.setText("Era Bangun Group");
         jLabel28.setName("jLabel28"); // NOI18N
         panelGlass4.add(jLabel28);
-        jLabel28.setBounds(16, 260, 420, 14);
+        jLabel28.setBounds(20, 150, 420, 14);
 
         jLabel31.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel31.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel31.setText("08562675039     Pengembang : Windiarto Nugroho, Dewi Ekawati, YASKI dll");
+        jLabel31.setText("-     ");
         jLabel31.setName("jLabel31"); // NOI18N
         panelGlass4.add(jLabel31);
         jLabel31.setBounds(58, 10, 420, 14);
 
         jLabel32.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel32.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel32.setText("elkhanza.wordpress.com, simrskhanza.weebly.com, yaski.or.id");
+        jLabel32.setText("eramedclara.wordpress.com");
         jLabel32.setName("jLabel32"); // NOI18N
         panelGlass4.add(jLabel32);
         jLabel32.setBounds(58, 30, 430, 14);
 
         jLabel33.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel33.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel33.setText("khanza_media@yahoo.com, khanzasoftmedia@gmail.com");
+        jLabel33.setText("eramedclara@gmail.com");
         jLabel33.setName("jLabel33"); // NOI18N
         panelGlass4.add(jLabel33);
         jLabel33.setBounds(58, 50, 420, 14);
 
         jLabel34.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel34.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel34.setText("github.com/mas-elkhanza     Instagram : simrskhanza");
+        jLabel34.setText("github.com/eramedclara     Instagram : eramedclara      Tiktok : eramedclara");
         jLabel34.setName("jLabel34"); // NOI18N
         panelGlass4.add(jLabel34);
         jLabel34.setBounds(58, 70, 420, 14);
 
         jLabel35.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel35.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel35.setText("RS Haji Kamino Way Kanan, RS PKU Jatinom Klaten, RS Khalisah,");
+        jLabel35.setText(" ");
         jLabel35.setName("jLabel35"); // NOI18N
         panelGlass4.add(jLabel35);
         jLabel35.setBounds(126, 180, 320, 14);
 
         jLabel36.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
         jLabel36.setForeground(new java.awt.Color(50, 50, 50));
-        jLabel36.setText("RS Alam Medica Bumiayu, dll");
+        jLabel36.setText(" ");
         jLabel36.setName("jLabel36"); // NOI18N
         panelGlass4.add(jLabel36);
         jLabel36.setBounds(126, 200, 320, 14);
