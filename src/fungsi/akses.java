@@ -247,8 +247,8 @@ public final class akses {
     
     public static void setData(String user, String pass) {
         try {        
-                ps=koneksi.prepareStatement("select * from admin where admin.usere=AES_ENCRYPT(?,'nur') and admin.passworde=AES_ENCRYPT(?,'windi')");               
-                ps2=koneksi.prepareStatement("select * from user where user.id_user=AES_ENCRYPT(?,'nur') and user.password=AES_ENCRYPT(?,'windi')");
+                ps=koneksi.prepareStatement("select * from admin where admin.usere=AES_ENCRYPT(?,'EraBangun') and admin.passworde=AES_ENCRYPT(?,'EramedClara')");               
+                ps2=koneksi.prepareStatement("select * from user where user.id_user=AES_ENCRYPT(?,'EraBangun') and user.password=AES_ENCRYPT(?,'EramedClara')");
                 try {
                     ps.setString(1,user);
                     ps.setString(2,pass);
