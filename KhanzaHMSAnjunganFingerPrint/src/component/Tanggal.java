@@ -10,7 +10,7 @@ import uz.ncipro.calendar.JDateTimePicker;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public final class Tanggal extends JDateTimePicker {
     private static final long serialVersionUID = 1L;

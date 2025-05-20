@@ -19,7 +19,7 @@ import org.springframework.http.MediaType;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class BPJSCekNoKartu {
     public String cobnmAsuransi="",cobnoAsuransi="",cobtglTAT="",cobtglTMT="",

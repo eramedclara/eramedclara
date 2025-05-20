@@ -21,7 +21,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class DUKCAPILCekNIK {
     public String EKTP_STATUS="",NO_KK="",NIK="",NAMA_LGKP="",KAB_NAME="",AGAMA="",

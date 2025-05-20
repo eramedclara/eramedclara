@@ -19,7 +19,7 @@ import javax.swing.border.AbstractBorder;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class RoundedCornerBorder extends AbstractBorder{
     @Override public void paintBorder(

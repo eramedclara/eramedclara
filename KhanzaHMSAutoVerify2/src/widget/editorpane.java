@@ -11,7 +11,7 @@ import javax.swing.border.LineBorder;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class editorpane extends JEditorPane{
     public editorpane() {

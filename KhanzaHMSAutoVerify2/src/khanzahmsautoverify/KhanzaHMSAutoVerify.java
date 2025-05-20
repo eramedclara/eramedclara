@@ -7,7 +7,7 @@ package khanzahmsautoverify;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class KhanzaHMSAutoVerify {
 

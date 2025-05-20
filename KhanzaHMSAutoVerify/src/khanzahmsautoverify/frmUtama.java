@@ -26,7 +26,7 @@ import javax.swing.table.TableColumn;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class frmUtama extends javax.swing.JFrame {
     private final DefaultTableModel tabMode;

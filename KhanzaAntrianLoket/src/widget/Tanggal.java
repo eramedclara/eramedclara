@@ -10,7 +10,7 @@ import uz.ncipro.calendar.JDateTimePicker;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public final class Tanggal extends JDateTimePicker {
     public Tanggal(){

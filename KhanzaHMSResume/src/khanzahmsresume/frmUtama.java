@@ -26,7 +26,7 @@ import javax.swing.text.html.StyleSheet;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class frmUtama extends javax.swing.JFrame {
     private Connection koneksi=koneksiDB.condb();

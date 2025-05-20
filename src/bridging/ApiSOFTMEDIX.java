@@ -32,7 +32,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class ApiSOFTMEDIX {
     private Connection koneksi=koneksiDB.condb();

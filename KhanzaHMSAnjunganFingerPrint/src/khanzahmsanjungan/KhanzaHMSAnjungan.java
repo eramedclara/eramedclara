@@ -7,7 +7,7 @@ package khanzahmsanjungan;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class KhanzaHMSAnjungan {
 

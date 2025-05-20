@@ -16,7 +16,7 @@ import smsservice.SMSReadService;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class frmSmsView extends javax.swing.JFrame {
     private final Status status;

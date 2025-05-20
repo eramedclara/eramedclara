@@ -7,7 +7,7 @@ package fungsi;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 
     

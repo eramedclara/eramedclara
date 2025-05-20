@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class koneksiDB {
     private static Connection connection=null;

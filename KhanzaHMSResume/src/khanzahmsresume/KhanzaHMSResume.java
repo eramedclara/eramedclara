@@ -9,7 +9,7 @@ import usu.widget.util.WidgetUtilities;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class KhanzaHMSResume {
 

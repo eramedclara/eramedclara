@@ -22,7 +22,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class DUKCAPILJakartaPostLahir {
     private final Properties prop = new Properties();

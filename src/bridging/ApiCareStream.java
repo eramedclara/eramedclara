@@ -30,7 +30,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class ApiCareStream {
     private Connection koneksi=koneksiDB.condb();

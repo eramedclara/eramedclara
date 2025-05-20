@@ -69,15 +69,15 @@
                 strpos($_SERVER['REQUEST_URI'], "^")||strpos($_SERVER['REQUEST_URI'], "#")||
                 strpos($_SERVER['REQUEST_URI'], "!")||strpos($_SERVER['REQUEST_URI'], "-")||
                 strpos($_SERVER['REQUEST_URI'], "='")||strpos($_SERVER['REQUEST_URI'], "=/")) {
-            echo "<b>Harus disetujui : <br/>
-            Dilarang keras melakukan hacking/membajak Software/Web ini dengan cara apapun.<br/>
-            Bagi yang sengaja melakukan hacking/membajak softaware ini,<br/>
-            kami sumpahi sial 1000 turunan,miskin sampai 500 turunan.<br/>
-            Selalu mendapat kecelakaan sampai 400 turunan. Anak pertama<br/>
-            nya cacat tidak punya kaki sampai 300 turunan. Susah cari jodoh<br/>
-            sampai umur 50 tahun sampai 200 turunan. Ya Alloh maafkan kami <br/>
-            karena telah berdoa buruk, semua ini kami lakukan karena kami ti<br/>
-            dak pernah rela karya kami dihack/dibajak..</b> ";
+
+
+
+
+
+
+
+
+
             Zet($hal);
             @header("HTTP/1.1 414 Request-URI Too Long");
             @header("Status: 414 Request-URI Too Long");

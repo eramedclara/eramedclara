@@ -17,7 +17,7 @@ import org.springframework.http.MediaType;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class SatuSehatCekNIK {
     private String link="",json="";

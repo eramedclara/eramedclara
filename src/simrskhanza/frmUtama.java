@@ -1,15 +1,3 @@
-/*
-  Dilarang keras memperjualbelikan/mengambil keuntungan dari Software 
-  ini dalam bentuk apapun tanpa seijin pembuat software
-  (Khanza.Soft Media). Bagi yang sengaja membajak softaware ini ta
-  npa ijin, kami sumpahi sial 1000 turunan, miskin sampai 500 turu
-  nan. Selalu mendapat kecelakaan sampai 400 turunan. Anak pertama
-  nya cacat tidak punya kaki sampai 300 turunan. Susah cari jodoh
-  sampai umur 50 tahun sampai 200 turunan. Ya Alloh maafkan kami 
-  karena telah berdoa buruk, semua ini kami lakukan karena kami ti
-  dak pernah rela karya kami dibajak tanpa ijin.
- */
-
 package simrskhanza;
 
 import bridging.AkunRekeningBankJabar;
@@ -671,6 +659,7 @@ import ipsrs.IPSRSRingkasanPengeluaranBarangNonMedis;
 import ipsrs.IPSRSRingkasanReturBeliBarangNonMedis;
 import ipsrs.IPSRSRiwayatBarang;
 import ipsrs.IPSRSVerifikasiPenerimaan;
+import java.awt.Toolkit;
 import java.net.InetAddress;
 import kepegawaian.DlgAuditBundleIADP;
 import kepegawaian.DlgAuditBundleIDO;
@@ -1224,7 +1213,15 @@ public class frmUtama extends javax.swing.JFrame {
         setIconImage(new ImageIcon(super.getClass().getResource("/picture/yaski24.png")).getImage());
         
         this.setExtendedState(MAXIMIZED_BOTH);
+        
+        // Maksimalkan ukuran window dan kunci
+        Dimension screen = Toolkit.getDefaultToolkit().getScreenSize();
+        this.setSize(screen);
+        this.setResizable(false);
+
         //this.setSize(screen.width,screen.height);
+        
+        
         edAdmin.setDocument(new batasInput((byte)100).getKata(edAdmin));
         edPwd.setDocument(new batasInput((byte)100).getKata(edPwd));
         DlgLogin.setSize(299,180);

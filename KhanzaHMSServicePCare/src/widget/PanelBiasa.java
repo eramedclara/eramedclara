@@ -20,7 +20,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author khanzasoft
+ * @author eramedclara
  */
 public class PanelBiasa extends JPanel{
     private static final long serialVersionUID = -1;
